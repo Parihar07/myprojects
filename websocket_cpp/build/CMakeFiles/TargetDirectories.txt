@@ -1,0 +1,3 @@
+/Users/codebreaker/cbr/projects/myprojects/websocket_cpp/build/CMakeFiles/websocket_beast_server.dir
+/Users/codebreaker/cbr/projects/myprojects/websocket_cpp/build/CMakeFiles/edit_cache.dir
+/Users/codebreaker/cbr/projects/myprojects/websocket_cpp/build/CMakeFiles/rebuild_cache.dir
